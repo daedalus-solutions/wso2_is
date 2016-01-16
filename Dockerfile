@@ -17,7 +17,7 @@
 # ------------------------------------------------------------------------
 
 FROM wso2/base-image:4.1.1
-MAINTAINER dev@wso2.org
+MAINTAINER jtemlett@dearx.co.za
 
 ENV DEBIAN_FRONTEND noninteractive
 ENV WSO2_SERVER_TYPE is
